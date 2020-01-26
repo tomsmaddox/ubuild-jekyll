@@ -30,8 +30,8 @@ page_sections:
     url: "#Contact"
     button_text: Contact
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: "/uploads/2020/01/26/woodwork-drill.jpg"
+    alt_text: Woodwork image
   background_image: "/uploads/2020/01/26/woodwork-drill.jpg"
 - template: content-feature
   block: feature-1
