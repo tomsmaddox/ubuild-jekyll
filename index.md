@@ -7,14 +7,16 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: Portfolio
-    link_text: ''
   - link: "/"
     link_text: Home
   - link: ''
-    link_text: About me
+    link_text: Portfolio
   - link: "#features"
-    link_text: Features
+    link_text: Services
+  - link_text: Testimonials
+    link: ''
+  - link: ''
+    link_text: About me
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
