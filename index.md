@@ -7,8 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: Portfolio
+    link_text: ''
   - link: "/"
     link_text: Home
+  - link: ''
+    link_text: About me
   - link: "#features"
     link_text: Features
   cta:
