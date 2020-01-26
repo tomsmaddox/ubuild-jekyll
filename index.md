@@ -22,7 +22,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: First Rate Carpentry <br><strong>domestic woodworking services</strong>
+  headline: FirstRate Carpentry <br><strong>domestic woodworking services</strong>
   content: Ben Pettinger is a professional carpenter with more than 10 years of experience
     working in Surrey. Beautifully finished wood is is passion.
   cta:
