@@ -5,7 +5,7 @@ date: 2020-01-26T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/01/26/firstrate-full.png"
+  logo: "/uploads/2020/01/26/bp-full.png"
   navigation:
   - link: "/"
     link_text: Home
