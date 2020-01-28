@@ -18,8 +18,8 @@ page_sections:
   - link: ''
     link_text: About me
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: ''
+    button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   headline: BP Carpentry <br><strong>domestic woodworking services</strong>
